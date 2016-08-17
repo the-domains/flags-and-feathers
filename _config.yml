@@ -1,4 +1,4 @@
-name: Flags & Feathers
+name: Yum Chenmo's Stupas
 favicon: null
 layout_spectrum: 0.8906961076427251
 typography_spectrum: 0.26569679751992226
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5642613403033465
+    - '#8fd9fe'
+    - '#005ea8'
+    - '#28276b'
+    - '#ef1e27'
+    - '#c59e25'
+  brandStrength: 0.4375
   lightness: 0.5864312923513353
   saturation: 0.41207186388783157
-  rhythmicContrast: 0.6680185969453305
+  rhythmicContrast: 0.5
 purpose: []
