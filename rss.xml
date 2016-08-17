@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Yum Chenmo's Stupas]]></title>
         <description><![CDATA[Yum Chenmo's Stupas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flags-and-feathers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 21:20:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 22:01:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flags-and-feathers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6770617b-7b4c-4aa6-ba33-c5ade7ca1600.jpg">]]></description>
-            <link>undefinedef748c99-f548-4e89-b644-7495b60dc317/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6770617b-7b4c-4aa6-ba33-c5ade7ca1600.jpg" alt="The Amitabha Stupa in Sedona, AZ" title="">]]></description>
+            <link>https://thegrid.ai/flags-and-feathers/ef748c99-f548-4e89-b644-7495b60dc317/index.html</link>
             <guid isPermaLink="false">ef748c99-f548-4e89-b644-7495b60dc317</guid>
-            <pubDate>Wed, 17 Aug 2016 21:19:19 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 22:01:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
